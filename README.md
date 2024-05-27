@@ -2,7 +2,7 @@
 
 <!-- Descripcion -->
 
-I'm Francisco Prieto a appasionate software developer, tech freacky and a coffee lover. I currently pursuig a degree in computer sciences in the National University of Rio Cuarto (Universidad Nacional de Rio Cuarto, 🇦🇷).
+I'm Francisco Prieto a appasionate software developer, tech freaky and a coffee lover. I currently pursuig a degree in computer sciences in the National University of Rio Cuarto (Universidad Nacional de Rio Cuarto, 🇦🇷).
 
 <!-- I've +5 years of experience working on this field in big organizations with mid-size projects like [Agroestim](https://github.com/Agroestim). -->
 
