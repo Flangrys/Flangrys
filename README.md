@@ -9,7 +9,7 @@ I'm Francisco Prieto a appasionate software developer, tech freaky and a coffee 
 <!-- Usefull links -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Francisco_Prieto-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-prieto-griorgis-218a6b255/)
-[![Twitter Badge](https://img.shields.io/badge/-Flangrys-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/flangrys)
+[![Twitter Badge](https://img.shields.io/badge/-Flangrys-blue?style=flat-square&logo=x&logoColor=white)](https://x.com/flangrys)
 
 ## 📌 Projects
 
