@@ -1,47 +1,27 @@
-# `✨ Hi there 👋`
+# `Hi there 👋`
 
-<!-- Descripcion -->
+I'm Francisco M. Prieto. I am a Software Engineer focused on backend development, with strong experience in designing distributed, reliable and scalable applications.
 
-I'm Francisco Prieto a appasionate software developer, tech freaky and a coffee lover. I currently pursuing a degree in computer sciences in the National University of Rio Cuarto (Universidad Nacional de Rio Cuarto, 🇦🇷).
+I've 5 years of practical experience leading the development of projects with various technologies.
 
-<!-- I've +5 years of experience working on this field in big organizations with mid-size projects like [Agroestim](https://github.com/Agroestim). -->
+## 📌 | Projects
 
-<!-- Usefull links -->
+| Project Repository                                           | Description                                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| [flangrys.dev](https://github.com/flangrys/flangrys.dev)     | My personal web portfolio and thech blog.                                      |
+| [Wirethread](https://github.com/flangrys/wirethread)         | My own Minecraft server implementation built in Java.                          |
+| [Flangsbot](https://github.com/flangrys/flangsbot)           | A Discord bot made for automate project tasks and track issues.                |
+| [Catalys Portal](https://github.com/flangrys/catalys-portal) | Catalyst Portal is my personal infrastructure monitor built with Go + Fiber.   |
+| [Agroestim](https://github.com/agroestim/agroestim)          | A web app built with Python + Django and design to estimate wheat crop yields. |
 
-[![Linkedin Badge](https://img.shields.io/badge/-Francisco_Prieto-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-prieto-griorgis-218a6b255/)
-[![Twitter Badge](https://img.shields.io/badge/-Flangrys-blue?style=flat-square&logo=x&logoColor=white)](https://x.com/flangrys)
+## ⭐| My skills
 
-## 📌 Projects
+[![Backend Skills](https://skillicons.dev/icons?i=py,fastapi,django,flask,go,js,ts,express,java,kotlin,sqlite,mongodb,mysql,postgres&theme=light&perline=8)](https://skillicons.dev)
 
-| Repository                                                                     | Description                                                            |
-| ------------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
-| [**Agroestim App**](https://github.com/agroestim/agrovar-web-app)              | The Agrostim frontent client.                                          |
-| [**Agroestim Service**](https://github.com/agroestim/agrovar-api-microservice) | The Agroestim backend service.                                         |
-| [**Personal Blog**](https://github.com/flangrys/cs-blog-backend)               | My personal blog and portfolio.                                        |
-| [**Wirethread**](https://github.com/Flangrys/Wirethread)                       | My own implementation of a Minecraft server.                           |
+## 🛠️| My tools
 
-## ✨ In this year, I will... ✏️
+<div style="display: flex; align-items: center; justify-content: center;">
 
-    - Finish my personal portfolio.
-    - Complete my first year in the University.
-    - Start learning about AI and machine learning.
-    - Continue learning about AWS.
-    - Reinforce my tech stack.
-    - Colaborate in open source projects.
-    - Drink more coffee.
-
-## Tech Stack 🛠️
-
-<div style="display:flex; justify-content: center;">
-
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,go,java,kotlin,django,flask,html,css,sass,react,express,fastapi,postgres,mongodb,mysql,sqlite,deno,nodejs,nginx,docker,heroku,linux,powershell,md,git,github,vscode,atom,idea,neovim&theme=light&perline=12)](https://skillicons.dev)
-
-</div>
-
----
-
-<div style="display:flex; justify-content: center;">
-
-[![Flangry's GitHub stats](https://github-readme-stats.vercel.app/api?username=flangrys&show_icons=true)](https://github.com/flangrys)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea,atom&theme=light)](https://skillicons.dev)
 
 </div>
