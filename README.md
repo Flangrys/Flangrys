@@ -17,7 +17,7 @@ I'm Francisco Prieto a appasionate software developer, tech freaky and a coffee 
 | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
 | [**Agroestim App**](https://github.com/agroestim/agrovar-web-app)              | The Agrostim frontent client.                                          |
 | [**Agroestim Service**](https://github.com/agroestim/agrovar-api-microservice) | The Agroestim backend service.                                         |
-| [**Personal Blog**](https://github.com/flangrys/personal-blog-backend)         | My personal blog and portfolio.                                        |
+| [**Personal Blog**](https://github.com/flangrys/cs-blog-backend)               | My personal blog and portfolio.                                        |
 | [**Wirethread**](https://github.com/Flangrys/Wirethread)                       | My own implementation of a Minecraft server.                           |
 
 ## ✨ In this year, I will... ✏️
